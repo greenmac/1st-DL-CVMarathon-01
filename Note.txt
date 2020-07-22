@@ -1,0 +1,3 @@
+1.img.shape
+NumPy 陣列的前兩個維度分別是圖片的高度與寬度，
+    第三個維度則是圖片的 channel（RGB 彩色圖片的 channel 是 3，灰階圖片則為 1）
